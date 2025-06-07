@@ -1,4 +1,4 @@
-# RC Circuit Modeling and Analysis – ENME 351
+# RC Circuit Modeling and Analysis – ME 351
 
 ## Overview
 This project involved modeling and analyzing an RC (Resistor-Capacitor) circuit subject to a rectangular pulse input. The switch initiates charging and discharging phases based on the pulse duration. Two scenarios were evaluated to observe transient behavior.
