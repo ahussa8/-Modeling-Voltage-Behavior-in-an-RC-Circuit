@@ -34,9 +34,3 @@ This project involved modeling and analyzing an RC (Resistor-Capacitor) circuit 
 ## Tools Used
 - MATLAB for simulation, plotting, and data analysis
 - Simscape for visual circuit modeling and dynamic simulation
-
-## Authors
-- Abbas Hussain and team, Spring 2024
-- Course: ENME 351 – First Order Differential Equations
-- Instructor: Department of Mechanical Engineering, George Mason University
-
